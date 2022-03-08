@@ -5,4 +5,4 @@ Pre-compiled `iwasm` binary for GLIBC 2.12 (CentOS 6.9)
   * [Build the WASM runtime on CentOS 6.9/GLIBC 2.12](https://gist.github.com/gnh1201/b9c4ee4a98fbb369237b3e447a9550a2)
 
 ## Build date
-2022-02-22
+2022-03-08
