@@ -1,0 +1,50 @@
+[root@centos6 build]# cmake .. -DWAMR_DISABLE_HW_BOUND_CHECK=1 -DWAMR_BUILD_REF_TYPES=1
+CMake Deprecation Warning at CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Build Configurations:
+     Build as target X86_64
+     CMAKE_BUILD_TYPE Release
+     WAMR Interpreter enabled
+     WAMR AOT enabled
+     WAMR JIT disabled
+     Libc builtin enabled
+     Libc WASI enabled
+     Fast interpreter enabled
+     Multiple modules disabled
+     Hardware boundary check disabled
+     SIMD enabled
+     Reference types enabled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /usr/src/wasm-micro-runtime/product-mini/platforms/linux/build
+[root@centos6 build]# cmake .. -DWAMR_DISABLE_HW_BOUND_CHECK=1 -DWAMR_BUILD_REF_TYPES=1
+CMake Deprecation Warning at CMakeLists.txt:4 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+-- Build Configurations:
+     Build as target X86_64
+     CMAKE_BUILD_TYPE Release
+     WAMR Interpreter enabled
+     WAMR AOT enabled
+     WAMR JIT disabled
+     Libc builtin enabled
+     Libc WASI enabled
+     Fast interpreter enabled
+     Multiple modules disabled
+     Hardware boundary check disabled
+     SIMD enabled
+     Reference types enabled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /usr/src/wasm-micro-runtime/product-mini/platforms/linux/build
